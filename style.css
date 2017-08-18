@@ -1,0 +1,20 @@
+body {
+    background-color: orange;
+    height: 100%;
+}
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+ul {
+    font-family: sans-serif;
+}
+
+li {
+    font-family: sans-serif;
+}
+table {
+    border: 2px solid black;
+    background-color: sienna;
+}
